@@ -1,25 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" method="upgrade">
 	<name>Belarusian (be-BY) Language Pack</name>
-	<packagename>be-BY</packagename>
-	<version>4.2.2.2</version>
-	<creationDate>2022-09</creationDate>
-	<author>Andrei Miskevich</author>
-	<authorEmail>bratkabelarus@gmail.com</authorEmail>
-	<authorUrl>https://github.com/Jan-dax/Belarusian-Joomla-4-localization</authorUrl>
-	<copyright>Copyright (C) 2005 - 2022 Open Source Matters, Inc.</copyright>
-	<license>GNU General Public License version 2 or later</license>
+	<packagename>en-GB</packagename>
+	<version>5.0.2.1</version>
+	<creationDate>2023-11</creationDate>
+	<author>Joomla Belarus Community</author>
+	<authorEmail>admin@joomla.by</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>(C) 2019 Open Source Matters, Inc.</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url>https://github.com/joomla/joomla-cms</url>
-	<packager>Joomla! Project</packager>
-	<packagerurl>https://joomla.org</packagerurl>
-	<description><![CDATA[<h3 style='font-weight: 500'>Joomla 4.2.2 Belarusian Language Pack</h3><div style='font-weight: 400'><p>Пераклад Joomla 4, на беларускую мову.<br>Мы будзем рады прапановам і дапамозе ў перакладзе Joomla! Паведаміць аб праблеме ці ўнесці папраўкі вы можаце на старонцы <a href='https://github.com/Jan-dax/Belarusian-Joomla-4-localization' target='_blank'>Github</a>.</p></div>]]></description>
+	<packager>Joomla Belarus Community</packager>
+	<packagerurl>www.joomla.org</packagerurl>
+	<description><![CDATA[be-BY language pack]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
-		<folder type="language" client="administrator" id="be-BY">administrator/language/be-BY</folder>
-		<folder type="language" client="api" id="be-BY">api/language/be-BY</folder>
-		<folder type="language" client="site" id="be-BY">language/be-BY</folder>
+		<folder type="language" client="site" id="en-GB">language/be-BY</folder>
+		<folder type="language" client="administrator" id="en-GB">administrator/language/be-BY</folder>
+		<folder type="language" client="api" id="en-GB">api/language/be-BY</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Accredited Joomla! Translations">https://update.joomla.org/language/translationlist_4.xml</server>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">
+			https://update.joomla.org/language/translationlist_5.xml
+		</server>
 	</updateservers>
 </extension>
