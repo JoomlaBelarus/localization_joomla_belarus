@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metafile client="api">
 	<name>Belarusian (be-BY)</name>
-	<version>5.0.2</version>
-	<creationDate>2023-11</creationDate>
+	<version>5.1.0</version>
+	<creationDate>2024-04</creationDate>
 	<author>Joomla Belarus Community</author>
-	<authorEmail>admin@joomla.by</authorEmail>
+	<authorEmail>joomlablr@gmail.com</authorEmail>
 	<authorUrl>www.joomla.org</authorUrl>
 	<copyright>(C) 2020 Open Source Matters, Inc.</copyright>
 	<license>GNU General Public License version 4 or later; see LICENSE.txt</license>
@@ -12,9 +12,9 @@
 	<metadata>
 		<name>Belarusian (be-BY)</name>
 		<nativeName>Belarusian (be-BY)</nativeName>
-		<tag>en-GB</tag>
+		<tag>be-BY</tag>
 		<rtl>0</rtl>
-		<locale>be-BY.utf8, be-BY.UTF-8, be_BY.utf8, be-BY.UTF-8, be-BY, be_BY, be, blr, belarusian, belarusian-by</locale>
+		<locale>be-BY.utf8, be-BY.UTF-8, be-BY, BY, be, blr, belarusian, belarusian-by</locale>
 		<firstDay>0</firstDay>
 		<weekEnd>0,6</weekEnd>
 		<calendar>gregorian</calendar>
