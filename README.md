@@ -2,9 +2,9 @@
 Рэпазіторый падтрымліваецца афіцыйнай беларускай ​​суполкай Joomla.
 
 Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю, калі ласка, стварыце
-[Issue](https://github.com/Jan-dax/localization_joomla_belarus/issues/new).
+[Issue](https://github.com/JoomlaBelarus/localization_joomla_belarus/issues/new).
 
-Праца па лакалізацыі Joomla 5 тут [joomla-5](https://github.com/Jan-dax/localization_joomla_belarus/tree/5.x), па лакалізацыі Joomla 4 тут  [joomla-4](https://github.com/Jan-dax/localization_joomla_belarus/tree/4.x).
+Праца па лакалізацыі Joomla 5 тут [joomla-5](https://github.com/JoomlaBelarus/localization_joomla_belarus/tree/5.x), па лакалізацыі Joomla 4 тут  [joomla-4](https://github.com/JoomlaBelarus/localization_joomla_belarus/tree/4.x).
 
 ## Канал беларускай Joomla ў Telegram
 :white_check_mark: [Joomla па беларуску](https://t.me/joomlaby)
@@ -18,6 +18,3 @@
 :white_check_mark: [Чат Joomla по-русски в Telegram](https://t.me/joomlaru),  
 :white_check_mark: [Чат Joomla для профессионалов в Telegram](https://t.me/projoomla),  
 :white_check_mark: [Чат Joomla YOOtheme Pro в Telegram](https://t.me/yoothemepro_joomla).  
-
-## Дополнительные файлы
-:white_check_mark: [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-5/Glossary) - основные термины, используемые в переводе для единообразия терминологии.
