@@ -19,5 +19,4 @@
 :white_check_mark: [Чат Joomla для профессионалов в Telegram](https://t.me/projoomla),  
 :white_check_mark: [Чат Joomla YOOtheme Pro в Telegram](https://t.me/yoothemepro_joomla).  
 
-## Дополнительные файлы
-:white_check_mark: [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-5/Glossary) - основные термины, используемые в переводе для единообразия терминологии.
+
