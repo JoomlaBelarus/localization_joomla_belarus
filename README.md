@@ -8,3 +8,6 @@
 
 ## Канал беларускай Joomla ў Telegram
 :white_check_mark: [Joomla па беларуску](https://t.me/joomlaby)
+
+## Апошнія змены
+:white_check_mark: https://github.com/joomla/joomla-cms/compare/5.0.0...5.1-dev
