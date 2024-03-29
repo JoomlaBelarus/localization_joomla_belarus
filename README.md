@@ -8,13 +8,6 @@
 
 ## Канал беларускай Joomla ў Telegram
 :white_check_mark: [Joomla па беларуску](https://t.me/joomlaby)
- 
-## Рэсурсы рускамоўнай супольнасці
-:white_check_mark: [Портал Joomla по-русски](https://joomlaportal.ru),  
-:white_check_mark: [Форум русской поддержки Joomla](https://joomlaforum.ru),  
-:white_check_mark: [Официальный форум русской поддержки на Joomla.org](https://forum.joomla.org/viewforum.php?f=26),  
-:white_check_mark: [Официальная страница локализации](https://joomlaportal.ru/russian-joomla),  
-:white_check_mark: [Канал новостей Joomla в Telegram](https://t.me/joomlafeed),  
-:white_check_mark: [Чат Joomla по-русски в Telegram](https://t.me/joomlaru),  
-:white_check_mark: [Чат Joomla для профессионалов в Telegram](https://t.me/projoomla),  
-:white_check_mark: [Чат Joomla YOOtheme Pro в Telegram](https://t.me/yoothemepro_joomla).  
+
+## Апошнія змены
+:white_check_mark: https://github.com/joomla/joomla-cms/compare/5.0.0...5.1-dev
